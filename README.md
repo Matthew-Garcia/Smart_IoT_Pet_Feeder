@@ -3,7 +3,7 @@
 A modern, 3D-printed automatic pet feeder designed for remote feeding via smartphone. Built using Wi-Fi-enabled microcontrollers and efficient 3D-printed parts, this feeder dispenses food on a customizable schedule or on demand using a mobile app.
 
 <div align="center">
-  <img src="/pet_feeder.jpg" alt="Smart IoT Pet Feeder" width="400"/>
+  <img src="/Images/pet_feeder.jpg" alt="Smart IoT Pet Feeder" width="400"/>
 </div>
 
 ---
